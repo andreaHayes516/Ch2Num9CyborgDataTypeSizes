@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch2Num9CyborgDataTypeSizes", "Ch2Num9CyborgDataTypeSizes\Ch2Num9CyborgDataTypeSizes.vcxproj", "{0FEF47CD-9438-40B5-8F37-73654CA35CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Debug|x64.ActiveCfg = Debug|x64
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Debug|x64.Build.0 = Debug|x64
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Debug|x86.Build.0 = Debug|Win32
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Release|x64.ActiveCfg = Release|x64
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Release|x64.Build.0 = Release|x64
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Release|x86.ActiveCfg = Release|Win32
+		{0FEF47CD-9438-40B5-8F37-73654CA35CBB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F2A80D-6EB7-4058-8012-14652E67CF4D}
+	EndGlobalSection
+EndGlobal
